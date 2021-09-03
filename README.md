@@ -33,7 +33,7 @@ Students will leave this course with experience in:
 
 Please consult the TA regarding issues related to course material, homework problems, setting up your computing enviroment, code design, implementation, and execution.
 
-TA: Shyam Sankaran,  Office Hours: TBA, Email: <shyamss@seas.upenn.edu>
+TA: Shyam Sankaran,  Office Hours: Tuesday, Friday 12PM - 1PM, Location: Room No 517, PICS (5th Floor 3401 Walnut Street) Email: <shyamss@seas.upenn.edu>
 
 ### Note
 
